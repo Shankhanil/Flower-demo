@@ -5,12 +5,9 @@ Short description of your project goes here.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contributing](#contributing)
 
 ## Introduction
 
@@ -33,10 +30,6 @@ The process involves the following key steps:
 Federated Learning offers several advantages, including privacy preservation, reduced communication overhead, and the ability to adapt models to diverse datasets without centralizing sensitive information. It has applications in various fields, such as healthcare, finance, and Internet of Things (IoT), where preserving data privacy is paramount.
               
 
-## Features
-
-List some key features of your project.
-
 ## Installation
 
 Follow these step-by-step instructions on how to get started with Flower for Federated learning.
@@ -47,6 +40,10 @@ conda env create -f environment.yml
 conda activate flower
 python simulation.py
 ```
+
+## LICENSE
+
+Please refer the LICENSE file in the repository
 
 ## Contributing
 It's always welcome to contribute to the advancements of technology and deep learning
